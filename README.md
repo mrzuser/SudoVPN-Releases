@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Shield-security-icon.svg/512px-Shield-security-icon.svg.png" width="100" alt="SudoVPN Logo">
+  <!-- SudoVPN Logo: Uygulama ikonunu 'assets/icon.png' olarak Github'a yüklediğinde burası çalışacak -->
+  <img src="assets/icon.png" width="120" alt="SudoVPN Logo">
   <h1>SudoVPN 🚀</h1>
   <p><strong>Next-generation, blazing fast, secure, and multi-protocol VPN client. Break the limits of the internet!</strong></p>
   
@@ -12,10 +13,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <!-- Note for Developer: Upload your actual screenshots to an 'assets' folder in this repo and update these links -->
-  <img src="https://placehold.co/200x400/0b0f19/007EC6?text=Screenshot+1\n(Upload+Yours)" width="200" style="margin: 10px;" alt="Screen 1">
-  <img src="https://placehold.co/200x400/0b0f19/007EC6?text=Screenshot+2\n(Upload+Yours)" width="200" style="margin: 10px;" alt="Screen 2">
-  <img src="https://placehold.co/200x400/0b0f19/007EC6?text=Screenshot+3\n(Upload+Yours)" width="200" style="margin: 10px;" alt="Screen 3">
+  <img src="assets/image/screen1.jpg" width="200" style="margin: 10px;" alt="Screen 1">
+  <img src="assets/image/screen2.jpg" width="200" style="margin: 10px;" alt="Screen 2">
+  <img src="assets/image/screen3.jpg" width="200" style="margin: 10px;" alt="Screen 3">
 </div>
 
 *(Sneak peek into our modern Dark/Light user interface)*
@@ -45,14 +45,10 @@ SudoVPN will always remain open, transparent, and completely free to use.
 
 ---
 
-## 📝 Changelog & Release Notes
+## 📝 Release Notes
 
-We use GitHub Releases to keep track of what's new in every version.
-**Example v1.1.0 Update:**
-- 🆕 Fully optimized Hysteria2 protocol support.
-- 🚀 Updated Xray core to v1.8.x.
-- 🐛 Fixed battery drain issues caused by background sync.
-- 🎨 Added smooth micro-animations and overall UI performance improvements.
+We use GitHub Releases to keep track of what's new in every version. 
+To download the latest version and view all improvements, bug fixes, and new features, simply head over to our **[Releases](../../releases)** tab. Stay updated for maximum performance and security!
 
 ---
 
