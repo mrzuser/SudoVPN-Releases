@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- SudoVPN Logo: Uygulama ikonunu 'assets/icon.png' olarak Github'a yüklediğinde burası çalışacak -->
-  <img src="assets/icon.png" width="120" alt="SudoVPN Logo">
+  <!-- SudoVPN Logo: Uygulama ikonunu 'ic_launcher.png' olarak Github'a yüklediğinde burası çalışacak -->
+  <img src="ic_launcher.png" width="120" alt="SudoVPN Logo">
   <h1>SudoVPN 🚀</h1>
   <p><strong>Next-generation, blazing fast, secure, and multi-protocol VPN client. Break the limits of the internet!</strong></p>
   
@@ -13,9 +13,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="assets/image/screen1.jpg" width="200" style="margin: 10px;" alt="Screen 1">
-  <img src="assets/image/screen2.jpg" width="200" style="margin: 10px;" alt="Screen 2">
-  <img src="assets/image/screen3.jpg" width="200" style="margin: 10px;" alt="Screen 3">
+  <img src="screen1.jpg" width="200" style="margin: 10px;" alt="Screen 1">
+  <img src="screen2.jpg" width="200" style="margin: 10px;" alt="Screen 2">
+  <img src="screen3.jpg" width="200" style="margin: 10px;" alt="Screen 3">
 </div>
 
 *(Sneak peek into our modern Dark/Light user interface)*
